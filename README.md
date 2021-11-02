@@ -28,3 +28,11 @@ Based on your work, another engineer should be able to implement the user interf
 
 
 You can simplify some complex real world problems if you think it's not worth illustrating in the project.
+
+RUNNING THE PROGRAM:
+
+python3 atm.py 
+in the command line
+
+Extending:
+import controller.py and use the classes/functions
