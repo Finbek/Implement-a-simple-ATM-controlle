@@ -35,4 +35,4 @@ python3 atm.py
 in the command line
 
 Extending:
-import controller.py and use the classes/functions
+import atm.py and use the classes/functions
